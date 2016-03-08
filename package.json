@@ -1,6 +1,6 @@
 {
   "name": "cause-feed",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "checks a feed for new items",
   "main": "index.js",
   "license": "CC-BY-NC-SA-4.0",
