@@ -4,8 +4,8 @@ const _ = require('lodash');
 const request = require('request');
 const FeedParser = require('feedparser');
 const validator = require('validator');
-const scrapingUtils = require('cause-utils/scraping');
-const feedUtils = require('cause-utils/feed');
+const scrapingUtils = require('cause-utils/dist/scraping');
+const feedUtils = require('cause-utils/dist/feed');
 
 
 function requestFeed(reqOpts, errorHandler) {
